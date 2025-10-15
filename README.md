@@ -23,16 +23,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" />
 </p>
 
----
-
-<p align="center">
-  <a href="https://github.com/jordanpinheiro" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jordan-pinheiro-235777258" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 ---
 
@@ -46,3 +36,12 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/jordanpinheiro" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jordan-pinheiro-235777258" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+---
