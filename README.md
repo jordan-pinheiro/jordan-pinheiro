@@ -1,10 +1,15 @@
 ##HELLO 👋, My name is Jordan
 
-## About me
-⚡ Criando inovação desde 2023
-📚 Estudante de engenharia de software
+---
 
-------------------------------------------------------------------------------------------------------------------------------------------
+### 🧠 About Me
+- 💻 Passionate about technology and development  
+- 🌱 Currently learning **Java**  
+
+
+---
+
+
 
 ###  I code with
 <p align="left">
@@ -18,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" />
 </p>
 
-------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 <p align="center">
   <a href="https://www.youtube.com/@SEU_CANAL" target="_blank">
