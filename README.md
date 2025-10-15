@@ -37,17 +37,17 @@
 ---
 
 ### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanpinheiro&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordan-pinheiro&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📈 GitHub Stats
-![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordanpinheiro&show_icons=true&theme=tokyonight&count_private=true)
+![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan-pinheiro&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordanpinheiro&theme=tokyonight" alt="Jordan's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordan-pinheiro&theme=tokyonight" alt="Jordan's Streak Stats" />
 </p>
 
 ---
