@@ -46,12 +46,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordan-pinheiro&theme=tokyonight" alt="Jordan's Streak Stats" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/rafaballerini/rafaballerini/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
