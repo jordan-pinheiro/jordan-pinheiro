@@ -1,4 +1,4 @@
-##HELLO 👋, My name is Jordan
+<h1 align="center">HELLO 👋, My name is Jordan</h1>
 
 ---
 
