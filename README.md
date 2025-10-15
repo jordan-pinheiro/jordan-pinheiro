@@ -26,13 +26,10 @@
 ---
 
 <p align="center">
-  <a href="https://www.youtube.com/@SEU_CANAL" target="_blank">
-    <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
   <a href="https://github.com/jordanpinheiro" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/jordan-pinheiro-235777258" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
