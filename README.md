@@ -46,13 +46,6 @@
 
 ---
 
-### 🧠 About Me
-- 💻 Passionate about technology and development  
-- 🌱 Currently learning **Java** and **React**  
-- 🚀 Focused on becoming a **Full Stack Developer**
-
----
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordanpinheiro&theme=tokyonight" alt="Jordan's Streak Stats" />
 </p>
